@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: Networksecurity
+Version: 0.0.1
+Author: sriharshith
+Requires-Dist: python-dotenv
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: uvicorn
+Requires-Dist: pymongo
+Dynamic: author
+Dynamic: requires-dist
