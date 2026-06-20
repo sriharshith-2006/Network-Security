@@ -7,5 +7,6 @@ Requires-Dist: pandas
 Requires-Dist: numpy
 Requires-Dist: uvicorn
 Requires-Dist: pymongo
+Requires-Dist: pymongo[srv]
 Dynamic: author
 Dynamic: requires-dist

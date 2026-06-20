@@ -3,3 +3,4 @@ pandas
 numpy
 uvicorn
 pymongo
+pymongo[srv]
