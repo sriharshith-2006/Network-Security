@@ -8,5 +8,6 @@ Requires-Dist: numpy
 Requires-Dist: uvicorn
 Requires-Dist: pymongo
 Requires-Dist: pymongo[srv]
+Requires-Dist: scikit-learn
 Dynamic: author
 Dynamic: requires-dist
